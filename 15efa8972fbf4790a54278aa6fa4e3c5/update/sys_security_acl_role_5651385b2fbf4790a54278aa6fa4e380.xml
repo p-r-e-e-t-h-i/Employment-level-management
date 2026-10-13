@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-13 05:03:36</sys_created_on>
+        <sys_id>5651385b2fbf4790a54278aa6fa4e380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2058264_employ_0_employment_level.x_2058264_employ_0.employment_level_user</sys_name>
+        <sys_package display_value="Employment level management" source="x_2058264_employ_0">15efa8972fbf4790a54278aa6fa4e3c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employment level management">15efa8972fbf4790a54278aa6fa4e3c5</sys_scope>
+        <sys_security_acl display_value="x_2058264_employ_0_employment_level">c251385b2fbf4790a54278aa6fa4e37a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5651385b2fbf4790a54278aa6fa4e380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-13 05:03:36</sys_updated_on>
+        <sys_user_role display_value="x_2058264_employ_0.employment_level_user" name="x_2058264_employ_0.employment_level_user">de41b45b2fbf4790a54278aa6fa4e33a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

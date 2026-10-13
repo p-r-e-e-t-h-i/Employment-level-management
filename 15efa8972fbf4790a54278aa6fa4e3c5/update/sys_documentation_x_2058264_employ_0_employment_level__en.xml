@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Employment level" language="en" table="x_2058264_employ_0_employment_level">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Employment level</label>
+            <language>en</language>
+            <name>x_2058264_employ_0_employment_level</name>
+            <plural>Employment levels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 05:03:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Employment level</sys_name>
+            <sys_package display_value="Employment level management" source="x_2058264_employ_0">15efa8972fbf4790a54278aa6fa4e3c5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employment level management">15efa8972fbf4790a54278aa6fa4e3c5</sys_scope>
+            <sys_update_name>sys_documentation_x_2058264_employ_0_employment_level__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 05:03:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

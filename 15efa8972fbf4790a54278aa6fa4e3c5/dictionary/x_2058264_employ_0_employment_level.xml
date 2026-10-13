@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="91e0b81b2fbf4790a54278aa6fa4e39c" label="Employment level" max_length="40" name="x_2058264_employ_0_employment_level" type="collection">
+        <element label="Level name" max_length="40" name="level_name" type="string"/>
+        <element label="Designation" max_length="40" name="designation" type="string"/>
+        <element label="Min salary" max_length="38" name="min_salary" type="decimal"/>
+        <element label="Max salary" max_length="38" name="max_salary" type="decimal"/>
+    </element>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Allow create for records in x_2058264_employ_0_employee_profile, for users with role x_2058264_employ_0.employee_profile_user.</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_2058264_employ_0_employee_profile</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-13 05:28:45</sys_created_on>
+        <sys_id>6617b8172fff4790a54278aa6fa4e3c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_2058264_employ_0_employee_profile</sys_name>
+        <sys_package display_value="Employment level management" source="x_2058264_employ_0">15efa8972fbf4790a54278aa6fa4e3c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employment level management">15efa8972fbf4790a54278aa6fa4e3c5</sys_scope>
+        <sys_update_name>sys_security_acl_6617b8172fff4790a54278aa6fa4e3c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-13 05:28:45</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

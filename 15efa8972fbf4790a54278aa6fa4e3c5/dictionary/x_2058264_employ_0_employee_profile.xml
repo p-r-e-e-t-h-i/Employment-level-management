@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="84a6f8d32fff4790a54278aa6fa4e3da" label="Employee profile" max_length="40" name="x_2058264_employ_0_employee_profile" type="collection">
+        <element label="Employee Name" max_length="40" name="employee_name" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Employee Id" max_length="40" name="employee_id" type="string"/>
+        <element label="Employement Level" max_length="32" name="employement_level" reference="x_2058264_employ_0_employment_level" type="reference"/>
+        <index name="index">
+            <element name="employement_level"/>
+        </index>
+    </element>
+</database>
